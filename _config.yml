@@ -36,8 +36,8 @@ features                                  :
     fontawesome_icon_name                 : algolia
     
   - title                                 : Time or Distance
-    description                           : Configure your interval and rest using distance or time
-    fontawesome_icon_name                 : play-circle
+    description                           : Set your interval and rest by distance or time
+    fontawesome_icon_name                 : fa-stopwatch
 
   - title                                 : Video Support
     description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
